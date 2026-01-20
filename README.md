@@ -1,6 +1,7 @@
 ## Hi there 👋
 iletişim için [LINKEDLN](https://www.linkedin.com/in/rabia-sava%C5%9F-92603a3a7/)
-N
+MERHABALAR 
+Gelişim Üniversitesi Bilgisayar Teknolojisi önlisans öğrencisiyim.Yazılım,temel programlama ve bilgisayar sistemleri alanlarında kendimi geliştirmeye çalışıyorum. Bu GİTHUB hesabında derslerim ve kişisel çalışmalarım kapsamında yaptığım projeleri paylaşıyorum.
 
 
 
